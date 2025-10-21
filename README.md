@@ -1,2 +1,0 @@
-# KariHa17
-psets
